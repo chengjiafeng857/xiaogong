@@ -43,6 +43,7 @@ button {
   /* font-weight: 5000; */
   font-family: inherit;
   background-color: transparent;
+  color: white;
   cursor: pointer;
   border: transparent;
   width: auto;
