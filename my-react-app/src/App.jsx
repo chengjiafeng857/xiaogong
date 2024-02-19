@@ -18,7 +18,6 @@ function App() {
   return (
     <>
      
-      
       <div className="card" >
         <div className='heart_cont'>
           <p>Feng</p>
