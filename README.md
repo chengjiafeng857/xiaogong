@@ -22,7 +22,6 @@ Open `index.html` in your browser to see it locally, or deploy to GitHub Pages /
 - Animations, interactive messages, and visual flourishes (confetti, transitions, etc.)
 - Simple assets (optional music or images) included in the repo
 
-(Percentages above reflect this repository's language breakdown.)
 
 ---
 
