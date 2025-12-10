@@ -14,8 +14,8 @@ Open `index.html` in your browser to see it locally, or deploy to GitHub Pages /
 ## What it contains
 
 - A single-page interactive experience built with:
-    -Some visual stuff
-    -A Clock remebering a beatiful date
+    - Some visual stuff
+    - A Clock remebering a beatiful date
 - Animations, interactive messages, and visual flourishes (confetti, transitions, etc.)
 - Simple assets (optional music or images) included in the repo
 
