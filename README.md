@@ -3,7 +3,6 @@
 A small, hand-crafted interactive web gift made by a interesting(hopefully) soul. This repository contains a lightweight HTML/CSS/JavaScript experience intended as a present — a playful, sweet page to make someone smile.
 
 This project was created by chengjiafeng857 as a gift. Feel free to personalize everything: messages, colors, animations, and music.
-
 ---
 
 ## Preview
@@ -15,9 +14,9 @@ Open `index.html` in your browser to see it locally, or deploy to GitHub Pages /
 ## What it contains
 
 - A single-page interactive experience built with:
-  - HTML (≈ 7.2%)
-  - CSS (≈ 53.7%)
-  - JavaScript (≈ 39.1%)
+    Some visual stuff
+    A Clock remebering a beatiful date
+  
 - Animations, interactive messages, and visual flourishes (confetti, transitions, etc.)
 - Simple assets (optional music or images) included in the repo
 
