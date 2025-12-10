@@ -16,6 +16,7 @@ Open `index.html` in your browser to see it locally, or deploy to GitHub Pages /
 - A single-page interactive experience built with:
   
    Some visual stuff
+  
    A Clock remebering a beatiful date
   
 - Animations, interactive messages, and visual flourishes (confetti, transitions, etc.)
