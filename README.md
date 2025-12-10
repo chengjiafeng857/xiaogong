@@ -17,7 +17,7 @@ Open `index.html` in your browser to see it locally, or deploy to GitHub Pages /
   
    Some visual stuff
   
-   A Clock remebering a beatiful date
+   A clock remebering a beatiful date
   
 - Animations, interactive messages, and visual flourishes (confetti, transitions, etc.)
 - Simple assets (optional music or images) included in the repo
